@@ -3,7 +3,7 @@ I'm Rachel (she/her), I'm a software engineer currently working in Melbourne Aus
 
  - 👩‍💼 Experience: I am currently working as a C# backend engineer. I have also had exposure to react, java and kotin. 
  - 🌱 Learning: I am diving into the world of AWS and I have just obtained my AWS Solutions Architect Associate Certification 🥳
- - ⚡ Fun Fact: This is my second career, I was perviously a Locksmith.
+ - ⚡ Fun Fact: This is my second career, I was previously a Locksmith.
  - 📫 Contact Me: chels.rush1986@gmail.com
 <!--
 **RachelRushton/RachelRushton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
